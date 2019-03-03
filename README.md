@@ -1,2 +1,3 @@
 # gametheory2019
-For the game theory mini project
+Repository for the game theory mini-project (E1254 - Spring 2019).
+
