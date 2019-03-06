@@ -8,6 +8,8 @@ A periodic 2D grid of multi-armed bandits, each able to communicate to its immed
 Grid size = N x N
 
 PLAYER CHARACTERISTICS
+
 x = x location in the grid. Range [0,N]
+
 y = y location in the grid. Range [0,N]
 
